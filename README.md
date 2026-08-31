@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <h1 style="color: #FFFFFF; font-family: 'Segoe UI', sans-serif; font-size: 32px; margin: 0; text-transform: uppercase; letter-spacing: 2px;">
-        <span style="color: #FF0033;">&lt;</span> SEU NOME <span style="color: #FF0033;">/&gt;</span>
+        <span style="color: #FF0033;">&lt;</span> João Eric Pinheiro Felix da Silva <span style="color: #FF0033;">/&gt;</span>
       </h1>
       <p style="color: #FF0033; font-family: monospace; font-size: 18px; font-weight: bold; margin-top: 8px;">
         MOBILE SOFTWARE ENGINEER | SENIOR APP DEVELOPER
